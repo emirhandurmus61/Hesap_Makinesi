@@ -1,0 +1,22 @@
+C:\Users\EMİRHAN\Desktop\C#\HesapMakinesi2\HesapMakinesi2\bin\Debug\HesapMakinesi2.exe.config
+C:\Users\EMİRHAN\Desktop\C#\HesapMakinesi2\HesapMakinesi2\bin\Debug\HesapMakinesi2.exe
+C:\Users\EMİRHAN\Desktop\C#\HesapMakinesi2\HesapMakinesi2\bin\Debug\HesapMakinesi2.pdb
+C:\Users\EMİRHAN\Desktop\C#\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.csproj.AssemblyReference.cache
+C:\Users\EMİRHAN\Desktop\C#\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.csproj.SuggestedBindingRedirects.cache
+C:\Users\EMİRHAN\Desktop\C#\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.Form1.resources
+C:\Users\EMİRHAN\Desktop\C#\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.Properties.Resources.resources
+C:\Users\EMİRHAN\Desktop\C#\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.csproj.GenerateResource.cache
+C:\Users\EMİRHAN\Desktop\C#\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.csproj.CoreCompileInputs.cache
+C:\Users\EMİRHAN\Desktop\C#\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.exe
+C:\Users\EMİRHAN\Desktop\C#\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.pdb
+C:\Users\EMİRHAN\Desktop\C# UNİ\HesapMakinesi2\HesapMakinesi2\bin\Debug\HesapMakinesi2.exe.config
+C:\Users\EMİRHAN\Desktop\C# UNİ\HesapMakinesi2\HesapMakinesi2\bin\Debug\HesapMakinesi2.exe
+C:\Users\EMİRHAN\Desktop\C# UNİ\HesapMakinesi2\HesapMakinesi2\bin\Debug\HesapMakinesi2.pdb
+C:\Users\EMİRHAN\Desktop\C# UNİ\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.csproj.AssemblyReference.cache
+C:\Users\EMİRHAN\Desktop\C# UNİ\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.csproj.SuggestedBindingRedirects.cache
+C:\Users\EMİRHAN\Desktop\C# UNİ\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.Form1.resources
+C:\Users\EMİRHAN\Desktop\C# UNİ\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.Properties.Resources.resources
+C:\Users\EMİRHAN\Desktop\C# UNİ\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.csproj.GenerateResource.cache
+C:\Users\EMİRHAN\Desktop\C# UNİ\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.csproj.CoreCompileInputs.cache
+C:\Users\EMİRHAN\Desktop\C# UNİ\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.exe
+C:\Users\EMİRHAN\Desktop\C# UNİ\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.pdb
