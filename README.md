@@ -1,6 +1,6 @@
 HESAP MAKİNESİ
 
-Toplama, çıkarma, çarpma bölme işlemlerinin yapılabildiği klasik hesap makinesi.
+Toplama, çıkarma, çarpma bölme işlemlerinin yapılabildiği klasik hesap makinesi.Windows Forms App(.Net Framework) ile yapılmıştır.
 
 Hesap Makinesi Arayüz
 
